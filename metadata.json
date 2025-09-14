@@ -1,0 +1,5 @@
+{
+  "name": "AI Affiliate Blog Post Generator",
+  "description": "An AI-powered content writer that generates a full, SEO-optimized blog post from a product URL, tailored to a specific audience, writing style, and language.",
+  "requestFramePermissions": []
+}
